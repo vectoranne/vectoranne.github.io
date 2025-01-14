@@ -62,7 +62,8 @@
  &lt;div class="content">
  &lt;p class="price">€ 190&lt;/p></description></item><item><title/><link>https://vectoranne.github.io/main/hero/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vectoranne.github.io/main/hero/</guid><description>&lt;div class="hero-body">
  &lt;div class="container" style="padding-bottom: 18rem;">
- &lt;p class="title pb-3" style="font-size: 6rem;">vectora.&lt;/p>
+ &lt;p class="title pb-3 is-hidden-touch" style="font-size: 7rem;">vectora.&lt;/p>
+ &lt;p class="title pb-3 is-hidden-desktop" style="font-size: 4rem;">vectora.&lt;/p>
  &lt;p class="subtitle" style="font-size: 2rem;">Wiskunde en Fysica Bijlessen: Jouw Partner in Groei en
  Zelfvertrouwen
  &lt;/p>
