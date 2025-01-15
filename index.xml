@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on vectora</title><link>https://vectoranne.github.io/</link><description>Recent content in Home on vectora</description><generator>Hugo</generator><language>nl-BE</language><atom:link href="https://vectoranne.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://vectoranne.github.io/main/aanpak/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vectoranne.github.io/main/aanpak/</guid><description>&lt;div class="hero-body">
- &lt;div class="container" data-aos="fade-up">
- &lt;h2 class="title is-2 has-text-centered p-2" style="background-color:#2E333D;color:#16A086">Mijn Persoonlijke Aanpak: Jouw Reis naar Zelfvertrouwen.!&lt;/h2>
+ &lt;div class="container" data-aos="animate__fadeInUpBig">
+ &lt;h2 class="title is-2 has-text-centered p-2" style="background-color:#2E333D;color:#16A086" data-aos="animate__bounce">Mijn Persoonlijke Aanpak: Jouw Reis naar Zelfvertrouwen.!&lt;/h2>
  &lt;h3 class="title is-3 has-text-centered mb-6">Laten we samen jouw leerpotentieel ontdekken!&lt;/h3>
 
  &lt;div class="timeline">
@@ -16,8 +16,8 @@
  &lt;/h3>
  &lt;p class="has-text-justified">Samen bouwen we aan een solide basis in wiskunde en fysica, gericht op jouw
  unieke leertempo en behoeften. Met een aanpak die zowel uitdagend als ondersteunend is.&lt;/p></description></item><item><title/><link>https://vectoranne.github.io/main/coach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vectoranne.github.io/main/coach/</guid><description>&lt;div class="hero-body">
- &lt;div class="container" data-aos="fade-up">
- &lt;h2 class="title is-2 has-text-centered p-2" style="background-color:#fff;color:#F39C12">Hallo!&lt;/h2>
+ &lt;div class="container" data-aos="animate__fadeInUpBig">
+ &lt;h2 class="title is-2 has-text-centered p-2" style="background-color:#fff;color:#F39C12" data-aos="animate__bounce">Hallo!&lt;/h2>
  &lt;h3 class="title is-3 has-text-centered mb-6" style="color:#fff">Ik ben Anne, jouw bijlescoach.&lt;/h3>
  &lt;div class="columns is-vcentered">
  &lt;div class="column is-half has-text-centered">
@@ -32,11 +32,11 @@
  &lt;p>Als jouw bijlescoach wil ik niet enkel je kennis vergroten,
  maar ook jouw zelfvertrouwen en motivatie een boost geven. Mijn focus ligt op een persoonlijke aanpak, waar
  jouw unieke behoeften en leertempo centraal staan.&lt;/p></description></item><item><title/><link>https://vectoranne.github.io/main/formules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vectoranne.github.io/main/formules/</guid><description>&lt;div class="hero-body">
- &lt;div class="container" data-aos="fade-up">
+ &lt;div class="container" data-aos="animate__fadeInUpBig">
  &lt;div class="columns is-vcentered">
  &lt;div class="column">
  &lt;div style="color:#F7F9F9">
- &lt;h2 class="title is-2 has-text-centered p-2" style="background-color:#F7F9F9;color:#34495E">Kies jouw Bijles Formule.&lt;/h2>
+ &lt;h2 class="title is-2 has-text-centered p-2" style="background-color:#F7F9F9;color:#34495E" data-aos="animate__bounce">Kies jouw Bijles Formule.&lt;/h2>
  &lt;h3 class="title is-3 has-text-centered mb-6" style="color:#F7F9F9">Ik geloof dat kwalitatieve bijles
  toegankelijk moet zijn.&lt;/h3>
  &lt;p class="has-text-centered" style="color:#F7F9F9">Ik sta klaar voor leerlingen in het secundair
@@ -72,10 +72,10 @@
 &lt;div class="hero-foot">
  &lt;a href="#coach">&lt;div class="arrow bounce">&lt;/div>&lt;/a>
 &lt;/div></description></item><item><title/><link>https://vectoranne.github.io/main/kennismaken/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vectoranne.github.io/main/kennismaken/</guid><description>&lt;div class="hero-body">
- &lt;div class="container" data-aos="fade-up">
+ &lt;div class="container" data-aos="animate__fadeInUpBig">
  &lt;div class="columns is-vcentered">
  &lt;div class="column has-text-centered">
- &lt;h2 class="title is-2 has-text-centered p-2" style="background-color:#34495E;color:#d0beb0">
+ &lt;h2 class="title is-2 has-text-centered p-2" style="background-color:#34495E;color:#d0beb0" data-aos="animate__bounce">
  &lt;span class="icon">
  &lt;i class="fa-regular fa-comment mr-6">&lt;/i>
  &lt;/span>Laten we Kennismaken!
