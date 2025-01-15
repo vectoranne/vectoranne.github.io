@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on vectora</title><link>https://vectoranne.github.io/</link><description>Recent content in Home on vectora</description><generator>Hugo</generator><language>nl-BE</language><atom:link href="https://vectoranne.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://vectoranne.github.io/main/aanpak/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vectoranne.github.io/main/aanpak/</guid><description>&lt;div class="hero-body">
- &lt;div class="container">
+ &lt;div class="container" data-aos="fade-up">
  &lt;h2 class="title is-2 has-text-centered">Mijn Persoonlijke Aanpak: Jouw Reis naar Zelfvertrouwen.&lt;/h2>
  &lt;h3 class="title is-3 has-text-centered mb-6">Laten we samen jouw leerpotentieel ontdekken!&lt;/h3>
 
@@ -16,7 +16,7 @@
  &lt;/h3>
  &lt;p class="has-text-justified">Samen bouwen we aan een solide basis in wiskunde en fysica, gericht op jouw
  unieke leertempo en behoeften. Met een aanpak die zowel uitdagend als ondersteunend is.&lt;/p></description></item><item><title/><link>https://vectoranne.github.io/main/coach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vectoranne.github.io/main/coach/</guid><description>&lt;div class="hero-body">
- &lt;div class="container">
+ &lt;div class="container" data-aos="fade-up">
  &lt;h2 class="title is-2 has-text-centered" style="color:#fff">Hallo!&lt;/h2>
  &lt;h3 class="title is-3 has-text-centered mb-6" style="color:#fff">Ik ben Anne, jouw bijlescoach.&lt;/h3>
  &lt;div class="columns is-vcentered">
@@ -32,7 +32,7 @@
  &lt;p>Als jouw bijlescoach wil ik niet enkel je kennis vergroten,
  maar ook jouw zelfvertrouwen en motivatie een boost geven. Mijn focus ligt op een persoonlijke aanpak, waar
  jouw unieke behoeften en leertempo centraal staan.&lt;/p></description></item><item><title/><link>https://vectoranne.github.io/main/formules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vectoranne.github.io/main/formules/</guid><description>&lt;div class="hero-body">
- &lt;div class="container">
+ &lt;div class="container" data-aos="fade-up">
  &lt;div class="columns is-vcentered">
  &lt;div class="column">
  &lt;div style="color:#F7F9F9">
@@ -72,7 +72,7 @@
 &lt;div class="hero-foot">
  &lt;div class="arrow bounce">&lt;/div>
 &lt;/div></description></item><item><title/><link>https://vectoranne.github.io/main/kennismaken/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vectoranne.github.io/main/kennismaken/</guid><description>&lt;div class="hero-body">
- &lt;div class="container">
+ &lt;div class="container" data-aos="fade-up">
  &lt;div class="columns is-vcentered">
  &lt;div class="column has-text-centered">
  
