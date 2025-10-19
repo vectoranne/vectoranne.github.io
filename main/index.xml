@@ -86,25 +86,8 @@
  &lt;div class="column is-four-fifths"&gt;
  &lt;div class="card"&gt;
  &lt;div class="card-content"&gt;
- &lt;iframe
- data-tally-src="https://tally.so/embed/mJXlA7?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1"
- loading="lazy" width="100%" height="276" frameborder="0" marginheight="0" marginwidth="0"
- title="TEMP Contact form"&gt;&lt;/iframe&gt;
- &lt;script&gt;
- var d = document,
- w = "https://tally.so/widgets/embed.js",
- v = function () {
- "undefined" != typeof Tally ? Tally.loadEmbeds() : d.querySelectorAll(
- "iframe[data-tally-src]:not([src])").forEach((function (e) {
- e.src = e.dataset.tallySrc
- }))
- };
- if ("undefined" != typeof Tally) v();
- else if (d.querySelector('script[src="' + w + '"]') == null) {
- var s = d.createElement("script");
- s.src = w, s.onload = v, s.onerror = v, d.body.appendChild(s);
- }
- &lt;/script&gt;
+ &lt;iframe data-tally-src="https://tally.so/embed/wQ6W1A?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1" loading="lazy" width="100%" height="324" frameborder="0" marginheight="0" marginwidth="0" title="Vectora Contactformulier"&gt;&lt;/iframe&gt;
+ &lt;script&gt;var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}&lt;/script&gt;
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;/div&gt;
@@ -113,4 +96,18 @@
  &lt;span class="fa-stack fa-lg"&gt;
  &lt;i class="fa fa-circle fa-stack-2x"&gt;&lt;/i&gt;
  &lt;i class="fa-solid fa-map-location fa-stack-1x fa-inverse"&gt;&lt;/i&gt;
- &lt;/span&gt; &lt;a style="color:#34495E" href="https://maps.app.goo.gl/eQoTxMQQiNtKffbP8"target="_new"&gt;Hever, Boortmeerbeek&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+ &lt;/span&gt; &lt;a style="color:#34495E" href="https://maps.app.goo.gl/eQoTxMQQiNtKffbP8"target="_new"&gt;Hever, Boortmeerbeek&lt;/a&gt;&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="pt-3"&gt;
+ &lt;span class="fa-stack fa-lg"&gt;
+ &lt;i class="fa fa-circle fa-stack-2x"&gt;&lt;/i&gt;
+ &lt;i class="fa-solid fa-envelope fa-stack-1x fa-inverse"&gt;&lt;/i&gt;
+ &lt;/span&gt;
+ &lt;a href="#" style="color:#34495E" data-gen-email&gt;an&lt;!-- Comment --&gt;ne@vectora.&lt;!-- comment --&gt;be&lt;/a&gt;&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>
